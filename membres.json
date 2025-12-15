@@ -1,2 +1,6 @@
-{"prenom": "prenom","nom": "nom","role" : "chef de projet"},
+[
+	{"prenom": "Yasser","nom": "MEDLOUMI","role" : "Initialisation"},
+	{"prenom": "Hiba","nom": "LOURINI","role" : "Design"},
+	{"prenom": "Mostafa","nom": "GHANDAM","role" : "Logique"},
+	{"prenom": "Karima","nom": "ECHATE","role" : "Integration"}
 ]
